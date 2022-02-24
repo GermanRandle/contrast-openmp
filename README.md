@@ -11,4 +11,4 @@ You will need CLion 2021.3.3 with g++9 and CMake 3.21.1.
 
 <number_of_threads> <input_file_name> <output_file_name> <coefficient>
 
-You can find more information about program in report.docx (available in Russian only).
+You can find more information about program in report.pdf (available in Russian only).
