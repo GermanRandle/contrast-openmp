@@ -9,6 +9,8 @@ You will need CLion 2021.3.3 with g++9 and CMake 3.21.1.
 
 3) Find a file main.cpp. Now you should specify program arguments as follows:
 
-<number_of_threads> <input_file_name> <output_file_name> <coeff>, where coeff is a float that belongs to [0; 0.5)
+number_of_threads input_file_name output_file_name coeff
+
+where coeff is a float that belongs to [0; 0.5)
 
 You can find more information about program in report.pdf (available in Russian only).
